@@ -147,6 +147,11 @@ header {
   font-size: 1.25rem;
 }
 
+.card .like,
+.cover-image {
+  cursor: pointer;
+}
+
 .cover-image::before {
   position: absolute;
   top: 0;
